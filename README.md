@@ -1,2 +1,2 @@
 Hi, I’m @Noe-AC.
-I'm working daily on various data science problems (e.g. ML, dimensional reduction, clustering, forecasting, etc., and lately a tiny bit of NLP).
+I'm working on various data science problems and having fun putting them in production.
